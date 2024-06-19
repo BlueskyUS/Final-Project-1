@@ -1,6 +1,5 @@
 import re
 
-
 def main():
     file_path = "words.txt"
     # Finds words using the \w and hyphen one or more times followed by space or punctuation.
